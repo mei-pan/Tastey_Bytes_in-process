@@ -1,7 +1,9 @@
 <div align="center">
-  <img alt="text" src="https://unsplash.com/photos/orange-fruits-_MYcIi9DgYQ" width="500" height="500"><br>
-  <sup>This it the caption of the image<sup>
+  <img src="patrick-hendry-bee-unsplash.jpg" alt="Source: Unsplash" width= 750ptx> 
+  
+  [Photo Credit: Patrick Hendry from Unsplash](URL "https://unsplash.com/photos/brown-and-yellow-bee-perched-on-flower-wTmdA5W2NgU")
 </div>
+
     
 # Tastey Bytes
 
