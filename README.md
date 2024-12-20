@@ -8,11 +8,14 @@
 # Tastey Bytes - Recipe Site Track Analysis 🚧
 
 ### Background 
-&nbsp;&nbsp;&nbsp;&nbsp; This is a scenario based project and is part of the DataCamp Data Science Professional Exam. This section of the exam include an end-to-end coding project and a video presentataion for evaluation. 
-Scenario of the project: as a data science in the data department of a given company. the client (Tasty Bytes) wants you analysis the recipes traffic to figure out what types of recipes will drive the web traffic up and building pick a machine leanring model which will predict whether a new recipe will be popular. 
+&nbsp;&nbsp;&nbsp;&nbsp; This is a scenario based case study as the last part of the DataCamp's Data Science Professional certifcation Exam. 
+the case study compose of 2 parts: 1. end-to-end coding project and  2. a video presentataion. 
+Scenario of the project: as a data scientist in a given company. the client (Tasty Bytes) a company provide various type of recipts to users. it wants to know what are the key indicators of recipets will drive up website traffic. it also request a machine learnig model that will predict if a new recipt will be popular. 
+At the end, me as the project lead will give a verbal presentation on key findings 
+
 
 ### Topics:
-&nbsp;&nbsp;&nbsp;&nbsp; Data Processing, EDA, Data Visualization, Supervised Learning. 
+&nbsp;&nbsp;&nbsp;&nbsp; Data Processing, Data Cleaning, EDA, Data Visualization, Supervised Learning. 
 
 ### How I approached this Project:
 - Exam and process the data deal with outlier, missing data etc and treat each according
