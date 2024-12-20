@@ -13,7 +13,7 @@ the case study compose of 2 parts: 1. end-to-end coding project and  2. a video 
 Scenario of the project: as a data scientist in a given company. the client (Tasty Bytes) a company provide various type of recipts to users. it wants to know what are the key indicators of recipets will drive up website traffic. it also request a machine learnig model that will predict if a new recipt will be popular. 
 At the end, me as the project lead will give a verbal presentation on key findings 
 
-
+**** per DataCamp's request: the project notebook is not shown since it is relevant to part of the exam. 
 ### Topics:
 &nbsp;&nbsp;&nbsp;&nbsp; Data Processing, Data Cleaning, EDA, Data Visualization, Supervised Learning. 
 
